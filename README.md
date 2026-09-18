@@ -5,7 +5,7 @@ MVP acadêmico de Web Development da FIAP: descubra filmes e séries e guarde su
 ## Integrantes
 
  João Lucca - RM569562
- Isaac Ambrozevicius - RM
+ Isaac Ambrozevicius - RM 569166
 
 ## Problema e solução
 
@@ -140,8 +140,5 @@ O projeto pode ser publicado na Vercel como Vite, com comando `npm run build` e 
 
 Referência: [configuração de aplicações Vite na Vercel](https://vercel.com/docs/frameworks/frontend/vite).
 
-GitHub: [inserir link]
+Vercel: [https://cp04-webdev-nu.vercel.app/]
 
-Vercel: [inserir link]
-
-Nenhuma publicação é necessária para executar o projeto localmente.
